@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NewDeveloper911
-- 👀 I’m interested in improving my Python skills and hopefully C# and C++ too.
+- 👀 I’m interested in improving my Python and C# and C++ too.
 - 🌱 I’m currently learning Python, machine learning and game development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
