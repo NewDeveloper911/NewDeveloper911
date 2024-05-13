@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NewDeveloper911
-- 👀 I’m interested in improving my Python and C# and C++ too.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nana Amfo-Brobbey
+- 👀 I’m proficient in Python, C#, C and Java. I especially am good at using C# when working with the Unity game engine and Python in general applications.
 
 - What I'm capable of using Unity C#
 [![Watch the video](<https://img.youtube.com/vi/QouC0pvKteU/hqdefault.jpg>)](https://www.youtube.com/watch?v=QouC0pvKteU)
